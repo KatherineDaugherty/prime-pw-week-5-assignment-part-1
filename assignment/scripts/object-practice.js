@@ -53,8 +53,7 @@ console.log('after adding a pair of shoes', me.shoeCount);
   - Cool huh? It works, even though it wasn't there before
   - Console.log your object
 */
+me.favoriteColor = 'blue';
+console.log('My favorite color is', me.favoriteColor);
 
-
-//COME BACK TO FIX UP 
-//me.favoriteColor = 'blue'
-//console.log(favoriteColor);
+console.log(me);
